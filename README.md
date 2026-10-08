@@ -1,92 +1,92 @@
 <div align="center">
 
-# Hey, I'm Salman 👋
-
-### Founder & CEO @ QuivixDigital (QX Labs) — I design and ship complex systems end-to-end
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Backend+systems+that+scale+under+real+traffic;WebRTC%2C+real-time+infra+%26+distributed+systems;Building+Ziro%2C+GlareX%2C+ZiroPay+%26+more" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Salman+%F0%9F%91%8B;Founder+%26+CEO+%40+QuivixDigital+(QX+Labs);I+build+products+end-to-end;Android+%C2%B7+Go+%C2%B7+Cloud+%C2%B7+AI" alt="Typing SVG" />
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/salmankhan.c123)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salmankhan2003)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmankhan.c123@outlook.com)
+![Profile Views](https://komarev.com/ggpa/?username=Salmankhan20032&label=Profile+Views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/Salmankhan20032?style=flat&logo=github&color=238636)
+![Location](https://img.shields.io/badge/Based_in-Turkey-E30A17?style=flat)
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🚀 About Me
 
-I'm the founder/CEO of **QuivixDigital**, operating as **QX Labs**, where I build and run several products hands-on — from the Android client down to the infrastructure they sit on. Most of my technical depth lives in **Ziro**, a large-scale messaging & social platform where I work across the video pipeline, real-time calling infra (WebRTC/TURN/LiveKit), backend scaling, and the reels/marketplace subsystems.
+I'm a **founder and hands-on engineer**. I run **QuivixDigital** (a New Mexico LLC, also operating as **QX Labs**), and I still write the code myself: native Android, Go backends, and the cloud infrastructure underneath.
 
-Outside of core dev work, I'm currently studying at **Konya Teknik Üniversitesi** in Turkey, with an eye on relocating to Europe (Finland/Germany) after graduation.
+- 🏗️ I ship whole products solo, from the client app to the server to the deployment
+- 🎓 Studying at **Konya Technical University**
+- 🔬 Published researcher in IIoT security (details below)
+- 🗣️ English teacher on the side, so I explain things well
+- 🌍 Turkey-based, Pakistani roots
 
-🔭 **Currently building:** Ziro's calling infra, CDN routing, and video pipeline
-🌱 **Always learning:** distributed systems design, applied ML
-⚡ **Fun fact:** I run most of my infra lean on OCI free-tier until it actually needs to scale
+> *"If it needs to exist, build it. Then make it fast."*
 
 ---
 
-## 🚀 What I'm Building
+## 🧪 What I'm Building at QX Labs
 
-| Project | What it is | Stack |
+| Product | What it is | Stack |
 |---|---|---|
-| **Ziro** | Large-scale messaging & social platform — reels, marketplace, real-time calling, payments | Go · MTProto · Android (Telegram-fork) · Redis · OCI |
-| **GlareX** | Fully native Android video calling app with adaptive quality & GPU beauty filters | Kotlin · Java · OpenGL ES · WebRTC |
-| **ZiroPay** | Crypto-to-fiat payment rails (TON/USDT) with a SAR↔PKR remittance corridor | TON · USDT · Stripe |
-| **Heylo** | Dating/social hybrid app | Flutter · Supabase · B2 |
-| **Chafadi** | E-commerce marketplace for the Niger market | React · Tailwind |
-| **Flight Simulator** | Mobile flight sim with volumetric clouds & realistic flight physics | Unity · C# |
+| **Ziro** | A full messaging super-app: chat, short-video **Shorts**, **Marketplace**, **Business**, **Drive**, and an AI companion | Android (Java/Kotlin), Go, MTProto backend |
+| **ZiroPay** | Payment rails on TON/USDT with fiat on/off-ramp for cross-border transfers | Go, blockchain |
+| **Chafadi** | E-commerce marketplace built for the Niger market | React, Tailwind |
+| **Heylo** | Dating and social hybrid app | Flutter, Supabase |
+| **GlareX** | Product under the QX Labs umbrella | |
+| **Flight Simulator** | Mobile flight sim | Unity, C# |
+
+> 🔒 The core products are private. The code lives in private repos, but the contributions graph below counts all of it.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+**Mobile**
 
-**Backend & Frameworks**
-![Go Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+**Backend & Cloud**
 
-**Real-Time & Infrastructure**
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Databases & Cloud**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+**Web**
 
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**AI & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM_Apps-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/Speech_to_Text-Whisper-black?style=for-the-badge)
+
+---
+
+## 📌 Featured Public Work
+
+| Repo | What it does |
+|---|---|
+| [**ViciDialer-Agent**](https://github.com/Salmankhan20032/ViciDialer-Agent) | An AI calling agent for VICIdial that answers and places real phone calls and holds a conversation. Written in Go, with speech-to-text built in |
+| [**Secure-and-Evasion-Aware-Neural-Trust-Engine**](https://github.com/Salmankhan20032/Secure-and-Evasion-Aware-Neural-Trust-Engine) | **SENTINEL**: IIoT security system with behavioral anomaly detection that stays robust against evasion |
+| [**Scrapper**](https://github.com/Salmankhan20032/Scrapper) | Web scraping tool in Go |
+| [**Hackathon**](https://github.com/Salmankhan20032/Hackathon) / [**Hackathon_FrontEnd**](https://github.com/Salmankhan20032/Hackathon_FrontEnd) | Full hackathon build: Go backend plus JavaScript frontend |
+
+---
+
+## 🔬 Research
+
+**SENTINEL**: an IEEE paper on securing Industrial IoT with behavioral anomaly detection, designed to hold up when attackers try to evade detection.
 
 ---
 
@@ -94,19 +94,27 @@ Outside of core dev work, I'm currently studying at **Konya Teknik Üniversitesi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Salmankhan20032&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmankhan20032&layout=compact&theme=dark&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Salmankhan20032&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salmankhan20032&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Salmankhan20032&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Salmankhan20032&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
 </div>
 
 ---
 
+## 🤝 Let's Connect
+
+I'm always up for talking about products, backend architecture, AI apps, or building something together.
+
 <div align="center">
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=Salmankhan20032&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![Website](https://img.shields.io/badge/QuivixDigital-000000?style=for-the-badge&logo=safari&logoColor=white)](https://YOUR_WEBSITE_HERE)
 
-<sub>Proudly created with <a href="https://gprm.itsvg.in">GPRM</a></sub>
+<br/>
+
+⭐ *If something here caught your eye, drop a star on a repo. It means a lot.*
 
 </div>
